@@ -16,7 +16,7 @@
 **11:00am <br> 12:00pm** | TBD | TBD | TBD | TBD
 **12:00am <br> 1:00pm** | Lunch | Lunch | Lunch | Lunch
 **1:00pm <br> 2:30pm** | TBD |  TBD | TBD | TBD
-**2:30pm <br> 3:30pm** | Code Sesh: Intro to JS - Objects | Code Sesh: Intro to JS - Functions | Code Sesh: Intro to JS - OOP  | Code Sesh: Weekly Review & Live Demo
+**2:30pm <br> 3:30pm** | Code Sesh: Intro to JS - jQuery | Code Sesh: Intro to JS - jQuery | Code Sesh: Intro to JS - jQuery | Code Sesh: Weekly Review & Live Demo
 **3:30pm <br> 4:00pm** | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello| Debrief & Closing w/ Trello
 
 ### Week 4 - Business Consultations
