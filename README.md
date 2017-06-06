@@ -69,7 +69,6 @@
 
 
 ### Week 1 - Orientation & Onboarding
-###        - Git, HTML, CSS
 <!-- Modules 1, 2, 3, 4, 5-->
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 
