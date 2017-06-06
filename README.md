@@ -7,7 +7,7 @@
 <li><b>Junior:</b> <i>Egypt</i></li>
 <li><b>Tech:</b> <i>Nhat</i></li>
 
-### Week 5 - Finalize Projects
+### Week 6 - Finalize Projects
 <!-- Business Projects -->
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 
