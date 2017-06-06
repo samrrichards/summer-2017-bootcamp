@@ -7,10 +7,6 @@
 <li><b>Junior:</b> <i>Egypt</i></li>
 <li><b>Tech:</b> <i>Nhat</i></li>
 
- Instructors | Day 1 |  Day 2 | Day 3| Day 4 
------ | ----- | ------ | ---- | -----
-**10:00am <br> 11:00am** | Icebreakers & Opening w/ Trello | Icebreakers & Opening w/ Trello  | Icebreakers & Opening w/ Trello | Icebreakers & Opening w/ Trello
-
 ### Week 6 - Finalize Projects
 <!-- Business Projects -->
 
