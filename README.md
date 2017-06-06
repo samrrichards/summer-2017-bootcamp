@@ -56,7 +56,7 @@
 **3:30pm <br> 4:00pm** | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello| Debrief & Closing w/ Trello
 
 
-### Week 2 - More Modules
+### Week 2 - Modules
 <!-- Modules 7, 8, 9-->
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 
