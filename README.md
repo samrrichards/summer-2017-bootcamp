@@ -66,7 +66,7 @@
 **12:00am <br> 1:00pm** | Lunch | Lunch | Lunch | Lunch
 **1:00pm <br> 2:30pm** | TBD | TBD | TBD | TBD
 **2:30pm <br> 3:30pm** | Code Sesh: Intro to JS - Data Types | Code Sesh: Intro to JS - Control Flow | Code Sesh: Intro to JS - Arrays  | Code Sesh: Weekly Review & Live Demo
-
+**3:30pm <br> 4:00pm** | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello| Debrief & Closing w/ Trello
 
 ### Week 1 - Orientation & Onboarding
 <!-- Modules 1, 2, 3, 4, 5-->
