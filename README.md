@@ -77,7 +77,7 @@
 **11:00am <br> 12:00pm** | TBD | TBD | TBD | TBD
 **12:00am <br> 1:00pm** | Lunch | Lunch | Lunch | Lunch
 **1:00pm <br> 2:30pm** | TBD | TBD | TBD | TBD
-**2:30pm <br> 3:30pm** | Code Sesh: Programming 101s and YOU | Code Sesh: Intro to Git - Basics | Code Sesh: Intro to HTML - Tags | Code Sesh: Intro to CSS - Selectors
+**2:30pm <br> 3:30pm** | Code Sesh: Programming 101s & YOU | Code Sesh: Styles & Conventions | Code Sesh: Intro to Version Control - Git | Code Sesh: Intro to HTML  
 **3:30pm <br> 4:00pm** | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello | Debrief & Closing w/ Trello| Debrief & Closing w/ Trello
 
 [1-1A]: # "Module 1: Tech Industry 101"
